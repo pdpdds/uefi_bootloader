@@ -1,2 +1,2 @@
-# uefi_bootloaer
+# uefi_bootloader
 limine + stivale2
